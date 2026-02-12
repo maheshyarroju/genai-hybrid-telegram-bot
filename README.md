@@ -101,7 +101,7 @@ genai-telegram-rag-bot/
 
 ⚙️ Setup Instructions (Run Locally)
 1️⃣ Clone Repo
-git clone <your-repo-link>
+git clone <https://github.com/maheshyarroju/genai-hybrid-telegram-bot.git>
 cd genai-telegram-rag-bot
 
 2️⃣ Create Virtual Environment (Name: genai)
