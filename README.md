@@ -127,12 +127,6 @@ Create a .env file in the root folder:
 ### Summarize
 - /summarize
 
-## ⚠️ Notes
-
-Do not upload .env or the genai/ environment folder to GitHub.
-
-The temp_images/ folder is used only for runtime image downloads and should remain ignored.
-
 ## ✅ Deliverables Completed
 
 - Source code (Python)
